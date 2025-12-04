@@ -2,6 +2,19 @@
 Este projeto foi desenvolvido como parte de um desafio técnico backend, com o objetivo de avaliar a capacidade de aprender uma tecnologia do zero, estruturar uma API REST e aplicar lógica de programação.
 
 A aplicação foi desenvolvida utilizando Python com FastAPI.Todos os endpoints foram testados utilizando o Thunder Client (extensão do VS Code).
+# ✅ Funcionalidades Implementadas
+
+Entidade Properties (Imóveis):
+
+GET /properties
+
+GET /properties/{id}
+
+POST /properties
+
+PUT /properties/{id}
+
+DELETE /properties/{id}
 
 # 🌟 Como Rodar o Projeto
 1️⃣ Criar ambiente virtual: python -m venv venv
